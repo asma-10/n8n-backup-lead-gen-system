@@ -2,6 +2,8 @@
 
 An automated cold outreach and lead qualification pipeline built with [n8n](https://n8n.io). It takes a list of prospects, sends LinkedIn connection requests, follows up with a structured messaging sequence, and classifies each lead based on how they respond — all without manual intervention.
 
+![LinkedIn Automation Workflow](images/Gemini_Generated_Image_obf970obf970obf9.jpg)
+
 ## Overview
 
 Given a list of prospects (with their LinkedIn profile URLs), the workflow:
