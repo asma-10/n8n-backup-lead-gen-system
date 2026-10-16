@@ -62,7 +62,7 @@ Any reply    -> Classified as Qualified / Negative
 ## Tech Stack
 
 - **[n8n](https://n8n.io)** — workflow automation / orchestration
-- **LinkedIn** — outreach channel (via automation-compatible integration)
+- **LinkedIn** — Unipile API
 - **Database** — Baserow
 
 ## Setup
